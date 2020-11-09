@@ -1,0 +1,62 @@
+.garageplug {
+    text-align: right;
+    margin-right: 20px;
+    padding-top: 20px;
+}
+
+
+
+.square {
+    width: 1348px;
+    height: 100px;
+    background-color: lightgrey;
+}
+
+.car1 {
+    width: 200px;
+    height: auto;
+    margin-left: 135px;
+}
+
+.car2 {
+    width: 200px;
+    height: auto;
+    margin-left: 85px;
+}
+
+.car3 {
+    width: 200px;
+    height: auto;
+}
+
+.continue {
+    width: 260px;
+    height: 60px;
+    font-size: 30px;
+    font-weight: 500;
+    margin-left: 535px;
+    margin-top: 20px;
+    background-color: white;
+}
+
+.car-size {
+    font-size: 23px;
+    margin-left: 615px;
+    margin-top: 20px;
+    font-weight: 500;
+}
+
+.small {
+    margin-left: 210px;
+    font-size: 15px;
+}
+
+.sedan {
+    margin-left: 160px;
+    font-size: 15px;
+}
+
+.hatchback {
+    font-size: 15px;
+    margin-left: 75px;
+}
